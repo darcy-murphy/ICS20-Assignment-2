@@ -1,3 +1,15 @@
+
+
+// Copyright (c) 2020 Mr. Coxall All rights reserved
+//
+// Created by: Darcy Murphy
+// Created on: Nov 2022
+// This file contains the JS functions for index.html
+
+/**
+ * Check servie worker.
+ */
+
 "use strict"
 /**
  * This function calculates area and perimeter of kite.
