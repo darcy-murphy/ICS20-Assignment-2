@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 // Copyright (c) 2020 Darcy Murphy All rights reserved
@@ -11,7 +11,7 @@
  * Check servie worker.
  */
 
->>>>>>> 0d281bf0b924e17d371d876a41b8e1b66dc6a4e5
+
 "use strict"
 /**
  * This function calculates area and perimeter of kite.
