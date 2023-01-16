@@ -3,4 +3,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/darcy-murphy/ICS2O-Unit1-06-Favicon)](https://repl.it/github/darcy-murphy/ICS2O-Unit1-06-Favicon)
 
-This site can be found at: [https://darcy-murphy.github.io/ICS2O-Template1](https://darcy-murphy.github.io/ICS2O-Template1)
+This site can be found at: [https://darcy-murphy.github.io/ICS2O-Assignment-2](https://darcy-murphy.github.io/ICS2O-Assignment-2)
